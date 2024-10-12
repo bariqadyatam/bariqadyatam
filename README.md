@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/faraday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faraday" height="30" width="40" /></a>
+<a href="https://instagram.com/sas_765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sas_765" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/mDeXJ7Z2W3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mDeXJ7Z2W3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
