@@ -20,5 +20,3 @@
 <h3 align="left">My Favorite Character In Girls Und Panzer:</h3>
 <img src="https://media1.tenor.com/m/JDQXFRAgIBEAAAAd/girls-und-panzers-reizei-mako.gif" alt="GIF" width="500">
 
-<h3 align="left">My Favorite Playlist:</h3>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6Ukv8EbfAU1i7TRV4xSOVv?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
