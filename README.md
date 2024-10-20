@@ -20,4 +20,5 @@
 <h3 align="left">My Favorite Character In Girls Und Panzer:</h3>
 <img src="https://media1.tenor.com/m/JDQXFRAgIBEAAAAd/girls-und-panzers-reizei-mako.gif" alt="GIF" width="500">
 
+![bariqadyatam's Stats](https://github-readme-stats.vercel.app/api?username=bariqadyatam&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![bariqadyatam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bariqadyatam&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
